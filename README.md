@@ -20,3 +20,8 @@
 ## Wykorzystane biblioteki
 - BeatifulSoup
 - Requests
+- Json
+- Os
+- Pandas
+- Numpy
+- Matplotlib
